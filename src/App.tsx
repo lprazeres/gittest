@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-   LUCAS PRAZERESSSSS
+   LUCAS PRAZEdddRE
     </div>
   )
 }
