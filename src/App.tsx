@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-Ludivar e Hebbel
+Dudao
     </div>
   )
 }
