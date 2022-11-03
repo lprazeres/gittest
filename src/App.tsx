@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-Ludivar e Hebbel, libi libe
+Ludivar e Hebbel, libi libesdss
     </div>
   )
 }
